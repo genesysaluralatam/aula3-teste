@@ -1,10 +1,10 @@
 //objetos
-let myObj = {};
+// let myObj = {};
 
-myObj.a = 3;
-myObj.b = 4;
+// myObj.a = 3;
+// myObj.b = 4;
 
-console.table(myObj);
+// console.table(myObj);
 
 let myObject = {
     a: 5,
